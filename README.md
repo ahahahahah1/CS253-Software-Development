@@ -1,6 +1,6 @@
 # CS253-Software-Development
 
-This repository contains all the assignments and project work done for the university course CS253: Software Development and Operations at IIT Kanpur. The project was completed in a group of 10 members whereas the assignments were based on individual submissions.
+This repository contains all the assignments and project work done for the university course CS253: Software Development and Operations at IIT Kanpur under the instruction of [Prof. Indranil Saha](https://cse.iitk.ac.in/users/isaha/). The project was completed in a group of 10 members whereas the assignments were based on individual submissions.
 
 The directory structure of the repository is as follows:
 
@@ -35,5 +35,5 @@ The main repository used during the development phase to enable collaborative wo
 ## Assignments
 The problem statements for the assignments in brief are (the complete problem statements can be found in the respective directory):
 * C++ Programming Assignment: To create a terminal application based on OOP principles that would maintain a list of planets, passengers and astronauts and enable them to manage their tickets with operations such as getList(), book(), delete() etc.
-* Shell Scripting Assignment: To create scripts to perform searching operations using grep.
+* Shell Scripting Assignment: To create scripts to perform searching operations using grep and some other manipulations.
 * Python Programming Assignment: To create a binary classfication model for four labels to predict cancer given a set of 32 features.
